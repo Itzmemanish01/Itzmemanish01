@@ -17,7 +17,6 @@
 
 - 🎓 First-year B.Tech student in **Mathematics & Computing** at IIIT Bhagalpur
 - 📊 Building toward a career in **Data Analytics** — turning raw numbers into business insights
-- 🔍 Strong DSA background applied to cleaner, more efficient data pipelines
 - 🚀 Actively seeking **Data Analyst internships** (Summer 2026)
 - 💡 Currently exploring: SQL optimization, Power BI storytelling, Python-based EDA
 
