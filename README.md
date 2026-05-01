@@ -15,10 +15,10 @@
 
 ## 🧠 About Me
 
-- 🎓 First-year B.Tech student in **Mathematics & Computing** at IIIT Bhagalpur
+- 🎓 Second-year B.Tech student in **Mathematics & Computing** at IIIT Bhagalpur
 - 📊 Building toward a career in **Data Analytics** — turning raw numbers into business insights
 - 🚀 Actively seeking **Data Analyst internships** (Summer 2026)
-- 💡 Currently exploring: SQL optimization, Power BI storytelling, Python-based EDA
+- 💡 Currently exploring: Machine Learning, Generative AI, Deep Learning, NLP, LLM.
 
 ---
 
